@@ -27,3 +27,7 @@ Paisa-Pal is an expense tracking application built using the MERN stack (MongoDB
 
    ```bash
    git@github.com:REHAN-18/Paisa-Pal.git
+
+![Uploading Screenshot 2024-09-05 at 2.19.03 AM.png…]()
+
+   
